@@ -7,3 +7,4 @@ Salesforce Opportunity Pipeline Health Analysis By Yargi Kilinc. Data Extraction
 
 ![image](https://github.com/user-attachments/assets/51028da8-f2fd-4d00-a570-6fcd50bf77ca)
 
+![image](https://github.com/user-attachments/assets/18728a47-0d69-4cfb-8ae8-18193969e81b)
